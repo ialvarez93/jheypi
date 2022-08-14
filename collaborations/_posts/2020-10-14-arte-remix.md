@@ -13,10 +13,8 @@ play:
     - name: Napster
       url: https://cl.napster.com/artist/jhey-pi/album/arte-remix
 embed_player:
-    type: spotifyalbum
-    src: 5KjhtPkpnz3vzfiVEjvNu2
-    name: Arte Remix
-    is_relative_url: true
+    src: track/5KjhtPkpnz3vzfiVEjvNu2
+    type: spotify    
 youtubeId: Xajx0j52X
 ---
 ### Video

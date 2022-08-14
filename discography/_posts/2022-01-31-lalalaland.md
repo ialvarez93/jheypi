@@ -11,7 +11,7 @@ play:
     - name: Spotify
       url: https://open.spotify.com/track/5QXYzBbzktyqRtMTyPK3tQ?si=51fbb03417834ff3
 embed_player:
-    src: 5QXYzBbzktyqRtMTyPK3tQ
+    src: track/5QXYzBbzktyqRtMTyPK3tQ
     type: spotify
 youtubeId: sxDXY5C54FM
 ---

@@ -13,10 +13,8 @@ play:
     - name: Napster
       url: https://cl.napster.com/artist/jhey-pi/album/el-que-te-canta-a-ti
 embed_player:
+    src: album/4l4yrjqNkz4sQozKaPkHEc
     type: spotify
-    src: 4l4yrjqNkz4sQozKaPkHEc
-    name: El Que Te Canta A Ti
-    is_relative_url: true
 youtubeId: AfGq8klIu80
 ---
 

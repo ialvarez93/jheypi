@@ -13,10 +13,8 @@ play:
     - name: Napster
       url: https://cl.napster.com/artist/jhey-pi/album/espejo-remix
 embed_player:
-    type: spotifyalbum
-    src: 3YohV2DshdHdR3XXmRo99k
-    name: Espejo Remix
-    is_relative_url: true
+    src: track/3YohV2DshdHdR3XXmRo99k
+    type: spotify
 youtubeId: 5wi4TEK2LLs
 ---
 ### Video

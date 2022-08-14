@@ -12,10 +12,8 @@ play:
     - name: Napster
       url: https://cl.napster.com/artist/jhey-pi/album/quiero-verte-503119109
 embed_player:
-    type: spotifyalbum
-    src: 0bZflbyaZX2QlMbZEm3CeK
-    name: Quiero Verte
-    is_relative_url: true
+    src: track/0bZflbyaZX2QlMbZEm3CeK
+    type: spotify    
 youtubeId: j_QTb8uct2M
 ---
 ### Video
