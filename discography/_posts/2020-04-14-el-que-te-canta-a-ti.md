@@ -3,6 +3,7 @@ layout: post
 title: El Que Te Canta A Ti
 description: Este Álbum titulado "El Que Te Canta A Ti" debuto en abril de 2020 como una compilación de los temas publicados desde el 2016 hasta finales de 2019.
 date: 2020-04-14
+type: Album
 image: assets/img/discography/el-que-te-canta-a-ti/cover.jpg
 play:
     - name: YouTube
@@ -16,7 +17,12 @@ embed_player:
     src: 4l4yrjqNkz4sQozKaPkHEc
     name: El Que Te Canta A Ti
     is_relative_url: true
+youtubeId: AfGq8klIu80
 ---
+
+### Video
+{% include youtubePlayer.html id=page.youtubeId %}
+
 
 ### Lista de canciones
 
