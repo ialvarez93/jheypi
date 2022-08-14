@@ -8,7 +8,10 @@ type: Remix
 play:
     - name: YouTube
       url: https://www.youtube.com/watch?v=1-6uN5iEHgc
+youtubeId: 1-6uN5iEHgc
 ---
+### Video
+{% include youtubePlayer.html id=page.youtubeId %}
 
 ### En colaboración con
 1. <a href="https://www.instagram.com/arivoficial"> AriV </a>

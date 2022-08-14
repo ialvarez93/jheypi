@@ -16,7 +16,10 @@ embed_player:
     src: 0bZflbyaZX2QlMbZEm3CeK
     name: Quiero Verte
     is_relative_url: true
+youtubeId: j_QTb8uct2M
 ---
+### Video
+{% include youtubePlayer.html id=page.youtubeId %}
 
 ### En colaboración con
 

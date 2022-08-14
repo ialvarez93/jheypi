@@ -12,7 +12,10 @@ play:
       url: https://deezer.page.link/3BEaMWGQTLhNHYXE6
     - name: Napster
       url: https://cl.napster.com/artist/soy-anny/album/chiky-boom-remix
+youtubeId: GaveK9t2TpY
 ---
+### Video
+{% include youtubePlayer.html id=page.youtubeId %}
 
 ### En colaboración con
 1. <a href="https://www.instagram.com/soyannyofficial/"> Anny </a>

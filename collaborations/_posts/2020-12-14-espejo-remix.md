@@ -17,7 +17,11 @@ embed_player:
     src: 3YohV2DshdHdR3XXmRo99k
     name: Espejo Remix
     is_relative_url: true
+youtubeId: 5wi4TEK2LLs
 ---
+### Video
+{% include youtubePlayer.html id=page.youtubeId %}
+
 
 ### En colaboración con
 1. <a href="https://www.instagram.com/anaizaoficial/"> Anaiza </a>
