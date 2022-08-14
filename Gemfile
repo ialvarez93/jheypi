@@ -2,7 +2,8 @@
 
 source "https://rubygems.org"
 gemspec
-gem "jekyll" ">= 3.9" "< 5.0"
+
+gem "jekyll", "~> 3.9"
 gem "kramdown-parser-gfm"
 gem "kramdown-syntax-coderay"
 #seo
