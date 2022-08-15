@@ -27,6 +27,9 @@ menu_contacts:
 - faicon: fab fa-instagram
   url: https://www.instagram.com/jpoficial10/?hl=es
   target: _blank
+- faicon: fab fa-tiktok
+  url: https://https://www.tiktok.com/@emlybustillos?_t=8UpcBQCYnTB&_r=1
+  target: _blank
 - faicon: fab fa-youtube
   url: https://www.youtube.com/c/JpJheyPi/featured
   target: _blank    
@@ -39,6 +42,6 @@ menu_contacts:
 - faicon: fas fa-envelope
   url: mailto:jp10.manager@gmail.com
   target: _blank
-- faicon: fas fa-rss
-  url: /feed.xml
-  target: _blank
+# - faicon: fas fa-rss
+#   url: /feed.xml
+#   target: _blank
