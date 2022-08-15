@@ -49,4 +49,4 @@ Theme based on minimal [music project](https://github.com/ItsPatrq/minimal-music
 
 ## Deployment <a name = "deployment"></a>
 
-This website was deploy via Netlify. Currently live [here](jheypi.com).   
+This website was deploy via Netlify. Currently live [here](https:jheypi.com).   
